@@ -1,0 +1,9 @@
+# a
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+$a_{b} = a^{b}$
+
+\zeta(s) = \sum_{n=1}^\infty \frac{1}{n^s}
+
+`$` a_b `$` 
