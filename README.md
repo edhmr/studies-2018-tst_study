@@ -5,3 +5,5 @@ This is a test resp to see how I can nicely share data of my studies
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+ $y = x^2 \hbox{ when $x > 2$}$
